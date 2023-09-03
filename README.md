@@ -1,7 +1,7 @@
 # Maltimart Ecommerce
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://react-cart-app-three.vercel.app
 
 ## 😎 Features
 
@@ -25,7 +25,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+$ https://github.com/abhi3566/react-cart-app.git
 
 # Go into the repository
 $ cd multimart-react-ecommerce
